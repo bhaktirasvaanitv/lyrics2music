@@ -1,0 +1,6 @@
+streamlit
+pydub
+transformers
+torchaudio
+ffmpeg-python
+audiocraft
